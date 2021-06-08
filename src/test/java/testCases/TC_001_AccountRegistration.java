@@ -14,7 +14,7 @@ public class TC_001_AccountRegistration extends BaseClass {
 	{
 	try
 	{
-		logger.info("TC_001_AccountRegistration Started");
+		logger.info("TC_001_AccountRegistration Started.........");
 		driver.get(rb.getString("appURL"));
 		logger.info("Application is Launched");
 		HomePage hp=new HomePage(driver);
