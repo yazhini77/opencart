@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="openCartSuite">
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
+	
+	<test name="openCartTest">
+		<parameter name="browser" value="Edge" />
+		<classes>
+			<!-- <class name="testCases.TC_001_AccountRegistration" />-->
+			<class name="testCases.TC_002_Login" />  
+			
+		</classes>
+	</test>
+</suite>

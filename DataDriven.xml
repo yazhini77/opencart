@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="openCartSuite">
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
+	
+	<test name="openCartTest">
+		<parameter name="browser" value="Edge" />
+		<classes>
+			<class name="testCases.TC_003_LoginDDT" />
+		</classes>
+	</test>
+</suite>

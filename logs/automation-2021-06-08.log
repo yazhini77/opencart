@@ -1,0 +1,610 @@
+20:57:01.048 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+20:57:01.153 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+20:57:01.252 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+20:57:01.334 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+20:57:02.169 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+20:57:02.205 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+20:57:02.209 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+17:35:16.340 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+17:35:16.494 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+17:35:17.387 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+17:35:17.452 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+17:35:17.974 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+17:35:18.034 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+17:35:18.082 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+17:35:18.143 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+17:35:18.199 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+17:35:18.255 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+17:35:18.308 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+17:35:18.357 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+17:35:19.100 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+17:35:19.123 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration is failed
+17:42:06.522 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+17:42:06.682 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+17:42:07.568 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+17:42:07.638 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+17:42:08.169 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+17:42:08.237 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+17:42:08.296 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+17:42:08.362 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+17:42:08.418 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+17:42:08.479 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+17:42:08.535 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+17:42:08.582 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+17:42:09.345 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+17:42:09.478 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration is failed
+18:46:43.365 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+18:46:43.504 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+18:46:44.236 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+18:46:44.296 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+18:46:44.768 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+18:46:44.831 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+18:46:44.879 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+18:46:44.932 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+18:46:44.987 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+18:46:45.035 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+18:46:45.084 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+18:46:45.127 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+18:46:45.878 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+18:46:46.014 [main] ERROR testCases.TC_001_AccountRegistration - Account Registration is failed
+18:46:48.982 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+18:46:49.114 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+18:46:50.177 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+18:46:50.229 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+18:46:50.597 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+18:46:50.656 [main] INFO  testCases.TC_002_Login - Provided Email 
+18:46:50.704 [main] INFO  testCases.TC_002_Login - Provided Password 
+18:46:51.439 [main] INFO  testCases.TC_002_Login - Clicked on Login
+18:46:51.472 [main] INFO  testCases.TC_002_Login - Login Success 
+18:46:51.472 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+18:47:55.609 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+18:47:55.758 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+18:47:56.435 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+18:47:56.533 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+18:47:57.031 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+18:47:57.093 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+18:47:57.146 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+18:47:57.204 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+18:47:57.256 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+18:47:57.308 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+18:47:57.366 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+18:47:57.413 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+18:47:58.158 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+18:47:58.185 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+18:47:58.187 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+18:48:02.501 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+18:48:02.628 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+18:48:03.384 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+18:48:03.439 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+18:48:03.820 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+18:48:03.886 [main] INFO  testCases.TC_002_Login - Provided Email 
+18:48:03.944 [main] INFO  testCases.TC_002_Login - Provided Password 
+18:48:04.694 [main] INFO  testCases.TC_002_Login - Clicked on Login
+18:48:04.733 [main] INFO  testCases.TC_002_Login - Login Success 
+18:48:04.733 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:31:36.413 [main] INFO  testCases.TC_003_LoginDDT - Edge Browser is Launched
+23:33:07.510 [main] INFO  testCases.TC_003_LoginDDT - Edge Browser is Launched
+23:33:09.467 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+23:33:10.424 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+23:33:10.536 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+23:33:10.950 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+23:33:11.072 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+23:33:11.176 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+23:33:12.011 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+23:33:12.095 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+23:33:12.789 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+23:33:12.822 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+23:33:13.282 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+23:33:13.368 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+23:33:13.799 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+23:33:13.951 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+23:33:14.073 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+23:33:14.700 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+23:33:24.729 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+23:33:24.729 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+23:33:24.734 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+23:33:25.160 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+23:33:25.238 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+23:33:25.665 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+23:33:25.780 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+23:33:25.891 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+23:33:26.453 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+23:33:36.478 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+23:33:36.478 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+23:33:36.482 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+23:33:36.923 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+23:33:37.001 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+23:33:37.451 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+23:33:37.566 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+23:33:37.659 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+23:33:38.260 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+23:33:48.285 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+23:33:48.286 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+23:53:16.552 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+23:53:16.747 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+23:53:17.704 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+23:53:17.806 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+23:53:18.375 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+23:53:18.506 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+23:53:18.611 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+23:53:18.716 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+23:53:18.843 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+23:53:18.978 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+23:53:19.108 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+23:53:19.230 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+23:53:20.125 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+23:53:20.178 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+23:53:20.182 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+23:53:24.764 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+23:53:24.896 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:53:25.702 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:53:25.767 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:53:26.169 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:53:26.290 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:53:26.401 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:53:27.316 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:53:27.377 [main] INFO  testCases.TC_002_Login - Login Success 
+23:53:27.377 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+00:45:52.469 [main] INFO  testCases.TC_003_LoginDDT - Edge Browser is Launched
+00:45:54.255 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+00:45:55.224 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+00:45:55.342 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+00:45:55.769 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+00:45:55.895 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+00:45:56.001 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+00:45:56.799 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+00:45:56.878 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+00:45:57.559 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+00:45:57.585 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+00:45:58.030 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+00:45:58.129 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+00:45:58.600 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+00:45:58.734 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+00:45:58.845 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+00:45:59.446 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+00:46:09.498 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+00:46:09.498 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+00:46:09.499 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+00:46:09.908 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+00:46:10.006 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+00:46:10.454 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+00:46:10.553 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+00:46:10.634 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+00:46:11.180 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+00:46:21.219 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+00:46:21.219 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+00:46:21.220 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+00:46:21.677 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+00:46:21.751 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+00:46:22.171 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+00:46:22.284 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+00:46:22.365 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+00:46:22.901 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+00:46:32.923 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+00:46:32.923 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+00:47:23.795 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+00:47:23.981 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+00:47:24.862 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+00:47:24.968 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+00:47:25.485 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+00:47:25.603 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+00:47:25.716 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+00:47:25.818 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+00:47:25.942 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+00:47:26.076 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+00:47:26.208 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+00:47:26.284 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+00:47:27.081 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+00:47:27.133 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+00:47:27.137 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+00:47:31.884 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+00:47:32.024 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+00:47:32.768 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+00:47:32.834 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+00:47:33.238 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+00:47:33.377 [main] INFO  testCases.TC_002_Login - Provided Email 
+00:47:33.491 [main] INFO  testCases.TC_002_Login - Provided Password 
+00:47:34.332 [main] INFO  testCases.TC_002_Login - Clicked on Login
+00:47:34.412 [main] INFO  testCases.TC_002_Login - Login Success 
+00:47:34.412 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:12:33.695 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:12:33.863 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:12:34.878 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:12:34.999 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:12:35.492 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:12:35.623 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:12:35.746 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:12:35.882 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:12:35.995 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:12:36.106 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:12:36.208 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:12:36.284 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:12:37.116 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:12:37.165 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:12:37.168 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:12:41.831 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:12:41.967 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:12:42.863 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:12:42.922 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:12:43.319 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:12:43.416 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:12:43.492 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:12:44.363 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:12:44.429 [main] INFO  testCases.TC_002_Login - Login Success 
+01:12:44.429 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:13:04.514 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:13:04.694 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:13:06.142 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:13:06.242 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:13:06.812 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:13:06.960 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:13:07.062 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:13:07.163 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:13:07.274 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:13:07.396 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:13:07.510 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:13:07.614 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:13:08.450 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:13:08.495 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:13:08.498 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:13:12.730 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:13:12.881 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:13:13.785 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:13:13.860 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:13:14.263 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:13:14.398 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:13:14.486 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:13:15.287 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:13:15.357 [main] INFO  testCases.TC_002_Login - Login Success 
+01:13:15.358 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:14:14.090 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:14:14.281 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:14:15.123 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:14:15.220 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:14:15.734 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:14:15.855 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:14:15.950 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:14:16.086 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:14:16.201 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:14:16.328 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:14:16.454 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:14:16.548 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:14:17.477 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:14:17.530 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:14:17.534 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:14:22.831 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:14:22.973 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:14:24.258 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:14:24.327 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:14:24.722 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:14:24.833 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:14:24.934 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:14:25.735 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:14:25.804 [main] INFO  testCases.TC_002_Login - Login Success 
+01:14:25.804 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:15:34.445 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:15:34.625 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:15:35.524 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:15:35.643 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:15:36.171 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:15:36.290 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:15:36.405 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:15:36.523 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:15:36.645 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:15:36.775 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:15:36.906 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:15:37.020 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:15:37.853 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:15:37.902 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:15:37.906 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:15:42.568 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:15:42.713 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:15:43.638 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:15:43.706 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:15:44.178 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:15:44.310 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:15:44.418 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:15:45.244 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:15:45.307 [main] INFO  testCases.TC_002_Login - Login Success 
+01:15:45.308 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:16:05.372 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:16:05.560 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:16:06.384 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:16:06.483 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:16:06.961 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:16:07.087 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:16:07.192 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:16:07.301 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:16:07.424 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:16:07.534 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:16:07.640 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:16:07.719 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:16:08.559 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:16:08.593 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:16:08.596 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:16:13.168 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:16:13.305 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:16:14.146 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:16:14.206 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:16:14.582 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:16:14.682 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:16:14.764 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:16:15.562 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:16:15.631 [main] INFO  testCases.TC_002_Login - Login Success 
+01:16:15.631 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:22:35.636 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:22:35.824 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:22:36.743 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:22:36.866 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:22:37.371 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:22:37.482 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:22:37.586 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:22:37.681 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:22:37.773 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:22:37.875 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:22:37.978 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:22:38.089 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:22:38.926 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:22:38.973 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:22:38.976 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:22:43.693 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:22:43.839 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:22:44.635 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:22:44.698 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:22:45.109 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:22:45.213 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:22:45.299 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:22:46.138 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:22:46.194 [main] INFO  testCases.TC_002_Login - Login Success 
+01:22:46.194 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:31:35.215 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:31:35.385 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:31:36.258 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:31:36.368 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:31:36.888 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:31:37.021 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:31:37.130 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:31:37.250 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:31:37.374 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:31:37.504 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:31:37.642 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:31:37.760 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:31:38.619 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:31:38.673 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:31:38.675 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:31:42.835 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:31:42.972 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:31:43.796 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:31:43.854 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:31:44.257 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:31:44.379 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:31:44.487 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:31:45.322 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:31:45.384 [main] INFO  testCases.TC_002_Login - Login Success 
+01:31:45.384 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+01:32:47.800 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+01:32:47.969 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+01:32:48.768 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+01:32:48.862 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+01:32:49.390 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+01:32:49.518 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+01:32:49.621 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+01:32:49.708 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+01:32:49.802 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+01:32:49.921 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+01:32:50.048 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+01:32:50.152 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+01:32:51.043 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+01:32:51.098 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+01:32:51.101 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+01:32:55.718 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+01:32:55.865 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+01:32:56.717 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+01:32:56.783 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+01:32:57.192 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+01:32:57.307 [main] INFO  testCases.TC_002_Login - Provided Email 
+01:32:57.400 [main] INFO  testCases.TC_002_Login - Provided Password 
+01:32:58.229 [main] INFO  testCases.TC_002_Login - Clicked on Login
+01:32:58.292 [main] INFO  testCases.TC_002_Login - Login Success 
+01:32:58.292 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:36:53.476 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+13:36:53.653 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+13:36:55.416 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+13:36:55.521 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+13:36:56.122 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+13:36:56.243 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+13:36:56.341 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+13:36:56.477 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+13:36:56.611 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+13:36:56.708 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+13:36:56.823 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+13:36:56.931 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+13:36:57.778 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+13:36:57.823 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+13:36:57.825 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+13:37:02.204 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+13:37:02.347 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:37:03.255 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:37:03.318 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:37:03.804 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:37:03.956 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:37:04.058 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:37:04.892 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:37:04.959 [main] INFO  testCases.TC_002_Login - Login Success 
+13:37:04.960 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:44:51.090 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+13:44:51.269 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+13:44:52.296 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+13:44:52.394 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+13:44:53.042 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+13:44:53.187 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+13:44:53.309 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+13:44:53.418 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+13:44:53.536 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+13:44:53.678 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+13:44:53.803 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+13:44:53.902 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+13:44:54.768 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+13:44:54.813 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+13:44:54.815 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+13:44:59.401 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+13:44:59.549 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:45:00.415 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:45:00.486 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:45:00.872 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:45:00.988 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:45:01.089 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:45:01.919 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:45:01.986 [main] INFO  testCases.TC_002_Login - Login Success 
+13:45:01.986 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:45:36.318 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+13:45:36.486 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+13:45:37.949 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+13:45:38.051 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+13:45:38.594 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+13:45:38.734 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+13:45:38.856 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+13:45:38.984 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+13:45:39.094 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+13:45:39.221 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+13:45:39.337 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+13:45:39.446 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+13:45:40.298 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+13:45:40.342 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+13:45:40.345 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+13:45:44.474 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+13:45:44.613 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:45:45.417 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:45:45.473 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:45:45.887 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:45:46.001 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:45:46.105 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:45:46.949 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:45:47.023 [main] INFO  testCases.TC_002_Login - Login Success 
+13:45:47.024 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:51:09.813 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+13:51:09.994 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+13:51:10.942 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+13:51:11.063 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+13:51:11.584 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+13:51:11.688 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+13:51:11.795 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+13:51:11.925 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+13:51:12.053 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+13:51:12.171 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+13:51:12.301 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+13:51:12.407 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+13:51:13.293 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+13:51:13.334 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+13:51:13.338 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+13:51:17.707 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+13:51:17.844 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:51:18.742 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:51:18.819 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:51:19.246 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:51:19.376 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:51:19.474 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:51:20.293 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:51:20.366 [main] INFO  testCases.TC_002_Login - Login Success 
+13:51:20.366 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:55:23.190 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+13:55:23.377 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+13:55:24.385 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+13:55:24.519 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+13:55:25.087 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+13:55:25.211 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+13:55:25.329 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+13:55:25.466 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+13:55:25.602 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+13:55:25.747 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+13:55:25.885 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+13:55:25.995 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+13:55:26.888 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+13:55:26.937 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+13:55:26.940 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+13:55:31.559 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+13:55:31.699 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:55:32.530 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:55:32.607 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:55:33.002 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:55:33.134 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:55:33.227 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:55:34.074 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:55:34.146 [main] INFO  testCases.TC_002_Login - Login Success 
+13:55:34.146 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:57:12.453 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+13:57:12.629 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+13:57:13.597 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+13:57:13.697 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+13:57:14.198 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+13:57:14.297 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+13:57:14.389 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+13:57:14.511 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+13:57:14.646 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+13:57:14.762 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+13:57:14.886 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+13:57:14.992 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+13:57:15.857 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+13:57:15.904 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+13:57:15.907 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+13:57:20.396 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+13:57:20.533 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:57:21.381 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:57:21.447 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:57:21.888 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:57:22.005 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:57:22.107 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:57:23.002 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:57:23.072 [main] INFO  testCases.TC_002_Login - Login Success 
+13:57:23.072 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:34:59.580 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+23:34:59.747 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+23:35:00.637 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+23:35:00.727 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+23:35:01.284 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+23:35:01.341 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+23:35:01.394 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+23:35:01.454 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+23:35:01.513 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+23:35:01.574 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+23:35:01.627 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+23:35:01.672 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+23:35:02.483 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+23:35:02.517 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+23:35:02.518 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+23:35:05.591 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+23:35:05.728 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:35:06.672 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:35:06.741 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:35:07.130 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:35:07.218 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:35:07.268 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:35:08.028 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:35:08.067 [main] INFO  testCases.TC_002_Login - Login Success 
+23:35:08.067 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+00:22:26.112 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched
+00:22:26.265 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+00:22:27.093 [main] INFO  testCases.TC_001_AccountRegistration - Application is Launched
+00:22:27.157 [main] INFO  testCases.TC_001_AccountRegistration - Account is Clicked
+00:22:27.637 [main] INFO  testCases.TC_001_AccountRegistration - Register is Clicked
+00:22:27.690 [main] INFO  testCases.TC_001_AccountRegistration - First Name Entered
+00:22:27.736 [main] INFO  testCases.TC_001_AccountRegistration - Last Name entered
+00:22:27.787 [main] INFO  testCases.TC_001_AccountRegistration - Email Entered
+00:22:27.835 [main] INFO  testCases.TC_001_AccountRegistration - Phone Number entered
+00:22:27.883 [main] INFO  testCases.TC_001_AccountRegistration - Password id entered
+00:22:27.930 [main] INFO  testCases.TC_001_AccountRegistration - Reset Password is entered
+00:22:27.968 [main] INFO  testCases.TC_001_AccountRegistration - Privacy policy clicked
+00:22:28.698 [main] INFO  testCases.TC_001_AccountRegistration - Continue is clicked
+00:22:28.721 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration is passed
+00:22:28.722 [main] INFO  testCases.TC_001_AccountRegistration - TC_001_AccountRegistration Completed
+00:22:31.751 [main] INFO  testCases.TC_002_Login - Edge Browser is Launched
+00:22:31.880 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+00:22:32.573 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+00:22:32.631 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+00:22:33.002 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+00:22:33.073 [main] INFO  testCases.TC_002_Login - Provided Email 
+00:22:33.131 [main] INFO  testCases.TC_002_Login - Provided Password 
+00:22:33.936 [main] INFO  testCases.TC_002_Login - Clicked on Login
+00:22:33.965 [main] INFO  testCases.TC_002_Login - Login Success 
+00:22:33.966 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+00:31:37.334 [main] INFO  testCases.TC_001_AccountRegistration - Edge Browser is Launched

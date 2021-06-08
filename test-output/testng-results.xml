@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-04T23:53:10 EDT" name="openCartSuite" finished-at="2021-06-04T23:53:27 EDT" duration-ms="16806">
+    <groups>
+      <group name="master">
+        <method signature="TC_001_AccountRegistration.test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistration@5acf93bb]" name="test_account_Registration" class="testCases.TC_001_AccountRegistration"/>
+        <method signature="TC_002_Login.test_Login()[pri:0, instance:testCases.TC_002_Login@7e7be63f]" name="test_Login" class="testCases.TC_002_Login"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2021-06-04T23:53:10 EDT" name="openCartTest" finished-at="2021-06-04T23:53:27 EDT" duration-ms="16806">
+      <class name="testCases.TC_001_AccountRegistration">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistration@5acf93bb]" started-at="2021-06-04T23:53:10 EDT" name="setup" finished-at="2021-06-04T23:53:16 EDT" duration-ms="5769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistration@5acf93bb]" started-at="2021-06-04T23:53:16 EDT" name="test_account_Registration" finished-at="2021-06-04T23:53:20 EDT" duration-ms="3444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistration@5acf93bb]" started-at="2021-06-04T23:53:20 EDT" name="tearDown" finished-at="2021-06-04T23:53:20 EDT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistration -->
+      <class name="testCases.TC_002_Login">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_Login@7e7be63f]" started-at="2021-06-04T23:53:20 EDT" name="setup" finished-at="2021-06-04T23:53:24 EDT" duration-ms="4577" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_002_Login@7e7be63f]" started-at="2021-06-04T23:53:24 EDT" name="test_Login" finished-at="2021-06-04T23:53:27 EDT" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_Login@7e7be63f]" started-at="2021-06-04T23:53:27 EDT" name="tearDown" finished-at="2021-06-04T23:53:27 EDT" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_Login -->
+    </test> <!-- openCartTest -->
+  </suite> <!-- openCartSuite -->
+</testng-results>
